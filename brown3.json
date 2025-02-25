@@ -1,39 +1,39 @@
 [{
-    "id": 10,
+    "id": 40,
     "title": "Keen",
-    "imgUrl": "img/brown11.webp",
+    "imgUrl": "img/clothes41.webp",
     "content": "(W) Keen Jasper Sneakers Bright Brown",
     "price": 127000,
     "now": "즉시 구매가"
 },
 {
-    "id": 11,
+    "id": 41,
     "title": "Nike",
-    "imgUrl": "img/brown12.webp",
+    "imgUrl": "img/clothes42.webp",
     "content": "(W) Nike Air Force 1 Dance Mink Brown Metallic Silver",
     "price": 142000,
     "now": "즉시 구매가"
 },
 {
-    "id": 12,
+    "id": 42,
     "title": "Adidas",
-    "imgUrl": "img/brown13.webp",
+    "imgUrl": "img/clothes43.webp",
     "content": "Adidas Gazelle Earth Strata Brown Gum",
     "price": 209000,
     "now": "즉시 구매가"
 },
 {
-    "id": 13,
+    "id": 43,
     "title": "Adidas",
-    "imgUrl": "img/brown14.webp",
+    "imgUrl": "img/clothes44.webp",
     "content": "Adidas Samba Deco Spezial Brown Cloud White",
     "price": 280000,
     "now": "즉시 구매가"
 },
 {
-    "id": 14,
+    "id": 44,
     "title": "Nike",
-    "imgUrl": "img/brown15.webp",
+    "imgUrl": "img/clothes45.webp",
     "content": "Nike x Jacquemus Air Humara LX Ale Brown and Gold",
     "price": 222000,
     "now": "즉시 구매가"
