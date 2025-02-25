@@ -1,39 +1,39 @@
 [{
-    "id": 5,
+    "id": 35,
     "title": "Adidas",
-    "imgUrl": "img/brown6.webp",
+    "imgUrl": "img/clothes36.webp",
     "content": "Adidas x Song for the Mute Country OG Bronze Strata Wild Brown",
     "price": 220000,
     "now": "즉시 구매가"
 },
 {
-    "id": 6,
+    "id": 36,
     "title": "Adidas",
-    "imgUrl": "img/brown7.webp",
+    "imgUrl": "img/clothes37.webp",
     "content": "Adidas Tobacco Gruen Dark Brown",
     "price": 105000,
     "now": "즉시 구매가"
 },
 {
-    "id": 7,
+    "id": 37,
     "title": "Mizuno",
-    "imgUrl": "img/brown8.webp",
+    "imgUrl": "img/clothes38.webp",
     "content": "Mizuno LG 60S 2K Brown",
     "price": 178000,
     "now": "즉시 구매가"
 },
 {
-    "id": 8,
+    "id": 38,
     "title": "Adidas",
-    "imgUrl": "img/brown9.webp",
+    "imgUrl": "img/clothes39.webp",
     "content": "Adidas Bermuda Mesa Brown Desert",
     "price": 149000,
     "now": "즉시 구매가"
 },
 {
-    "id": 9,
+    "id": 39,
     "title": "New Blance",
-    "imgUrl": "img/brown10.webp",
+    "imgUrl": "img/clothes40.webp",
     "content": "New Balance 2002R Brown",
     "price": 126000,
     "now": "즉시 구매가"
